@@ -102,7 +102,6 @@ lotr.faction.DARK_HUORN.name=Тёмные гворны
 lotr.faction.HOSTILE.name=Враждебная фракция
 lotr.faction.RUFFIAN.name=Бандиты
 lotr.faction.UNALIGNED.name=Нейтральная фракция
-lotr.structure.DatabaseGenerator.name=Генератор баз данных
 lotr.structure.null.name=Одна из разновидностей руин
 tile.lotr:mud.name=Грязь джунглей
 tile.dirt.0.name=Грунт
